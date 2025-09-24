@@ -13,7 +13,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 public class HandlingDropdowns {
 
 	public static void main(String[] args) {
-		// This is Dropdown Testing
+		// This is Dropdown Testing and i will fix it soon
 		 
 		WebDriverManager.chromedriver().setup();
 		WebDriver driver = new ChromeDriver();
